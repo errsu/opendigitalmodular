@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CN10
+D Connector, double row, 02x20
+K connector
+$ENDCMP
+#
+$CMP CN7-R
+D Connector, single row, 01x20
+K connector
+$ENDCMP
+#
+$CMP CONN_02X20
+D Connector, double row, 02x20
+K connector
+$ENDCMP
+#
+$CMP GND_SERCOM
+K POWER, PWR
+$ENDCMP
+#
+$CMP POT
+D Potentiometer
+K resistor variable
+$ENDCMP
+#
+$CMP SW_PUSH
+D Button
+K switch 4 pins 2 contacts
+$ENDCMP
+#
+$CMP SW_PUSH_SMALL_H
+D Button
+K switch
+$ENDCMP
+#
+#End Doc Library

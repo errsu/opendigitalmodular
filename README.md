@@ -5,7 +5,7 @@ Open Digital Modular (ODM): Proposal for a Synthesizer Architecture
 
 ODM is an architectural idea that is to be turned into a specification and
 a prototype implementation. All this is work in progress. The details can
-be found in the [ODM specification document](ODMSpecification.asc).
+be found in the [ODM specification document](documentation/ODMSpecification.asc).
 
 ## License
 
